@@ -22,7 +22,6 @@ We experimented with various machine learning models, including:
 - **Decision Trees**
 - **Logistic Regression**
 - **Support Vector Machines (SVM)**
-- **Gradient Boosting Models**
 - **Random Forest** (best performer in terms of accuracy and capturing complex patterns)
 - **Neural Networks** (evaluated for further enhancement)
 
